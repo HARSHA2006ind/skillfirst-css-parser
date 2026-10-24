@@ -1,0 +1,23 @@
+
+/* Sample stylesheet for testing */
+
+body {
+    color: #222;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.card, .profile-card {
+    background-color: white;
+    padding: 16px;
+    border: 1px solid #ddd !important;
+}
+
+:root {
+    --brand-color: #087f5b;
+}
+.test {
+    color: red;
+    padding: ;
+    margin: 10px;
+}
